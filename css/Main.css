@@ -1,0 +1,13 @@
+h1 {
+    color:red;
+}
+
+.jumbotron{
+    background-image:url("../Images/DSC_0372.JPG");
+    background-size:100%;
+    background-position:CENTER;
+}
+
+body{
+    background-color: gray
+}
