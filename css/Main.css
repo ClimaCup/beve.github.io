@@ -1,13 +1,38 @@
-h1 {
-    color:red;
+h1{
+    text-align: center
+    
+}
+h4{ 
+    text-align: center
+    
+}    
+p{
+    text-align: center;
 }
 
-.jumbotron{
-    background-image:url("../Images/DSC_0372.JPG");
-    background-size:100%;
-    background-position:CENTER;
+button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: rgb(255,255,255);
+    background-color: rgb(76,175,80);
+    border:none;
+    border-radius:15px;
+    box-shadow:0 9px rgb(153,153,153);
+   
 }
 
-body{
-    background-color: gray
+button {width: 100%;}
+
+
+
+body {
+  background-image: url("minecraft.jpg");
+  background-repeat: no-repeat;
+  background-size: cover
+  
 }
