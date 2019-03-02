@@ -26,3 +26,7 @@ var imageSources=[
   target.setAttribute("src",randImageSource);
   
 }
+
+const pickName=function(namelist){
+    namelist[math.round((Math.random()*(nameList.length-1)),0)]
+}
